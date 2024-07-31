@@ -1,6 +1,8 @@
 # Model Explorer
 
-Model Explorer is a JavaFX-based application designed for interactive analysis of classification and regression models. This tool simplifies the process of data preprocessing, model evaluation, and visualization, making it an essential resource for data scientists and machine learning practitioners. The project is still under development phase.
+Model Explorer is a JavaFX-based application designed for interactive analysis of classification and regression models. This tool simplifies the process of data preprocessing, model evaluation, and visualization, making it an essential resource for data scientists and machine learning practitioners. 
+
+**The project is still under development phase.**
 
 ## Features
 
